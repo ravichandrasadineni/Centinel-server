@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "express": "3.2.6",
-    "jade": "*"
+    "iniparser": "^1.0.5",
+    "jade": "*",
+    "moment": "^2.9.0",
+    "winston-request-logger": "^1.0.7"
   }
 }

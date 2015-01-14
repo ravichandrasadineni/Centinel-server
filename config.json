@@ -1,0 +1,7 @@
+{
+  "dbconfig": {
+    "url": "localhost",
+    "port": "27017",
+    "collection": "Centinel-Server"
+  }
+}

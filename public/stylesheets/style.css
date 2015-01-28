@@ -74,12 +74,19 @@ a {
     display: block;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
-    border-radius: 50%;
 }
 .new-account{
+    float : right;
     display: block;
-    margin-top: 10px;
+    margin-top: 20px;
 }
+
+.forgot-password {
+    float : left;
+    display: block;
+    margin-top: 20px;
+}
+
 h1.error-message{
     color: red;
 }
